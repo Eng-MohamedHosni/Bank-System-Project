@@ -24,7 +24,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Project v3.cpp">
+    <ClCompile Include="Bank System Project.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
